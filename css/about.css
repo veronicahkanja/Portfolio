@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Open+Sans&display=swap');
+body {
+    background: linear-gradient(to right, #9c27b0,#8ecdff);
+}
+/*header */
+header {
+   
+    height: 2.1cm;
+}
+#logo h3{
+    font-family: 'Allison', cursive;
+    font-size: 80px;
+    color: blanchedalmond;
+}
+.logo {
+    float: left;
+}
+#logo img {
+    border-radius: 100%;
+}
+nav {
+    position: relative;
+  text-decoration: none;
+  color: #ededed;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 6px 10px;
+  transition: 0.3s;
+  margin-left: 300px;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0px 30px;
+    
+}
+a {
+    color: #e71;
+    font-size: 27px;
+}
+a:hover {
+    color: #528aae;
+}    
+.hoodie {
+    margin-left: 1cm;
+    float: left;
+    width: 40%;
+    height: 60%;
+}
+h4,p {
+    color: blanchedalmond;
+}
+h4 {
+    font-size: 25px;
+}
+p {
+    font-size: 23px;
+}
+h5 {
+    color: #e71;
+    font-size: 30px;
+}
+.aboutme {
+    padding-left: 17cm;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+span {
+    color: #e71;
+}
+/* footer */
+footer {
+    
+    height: 2.5cm;
+}
+#footer ul li {
+    display: inline-block;
+    padding: 0px 70px;
+    margin-top: 0.5cm;
+}
