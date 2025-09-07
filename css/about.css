@@ -27,10 +27,12 @@ nav {
   padding: 6px 10px;
   transition: 0.3s;
   margin-left: 300px;
+   padding: 0px 30px;
 }
 nav ul li {
     display: inline-block;
     padding: 0px 30px;
+    
     
 }
 a {
@@ -47,7 +49,7 @@ a:hover {
     height: 60%;
 }
 h4,p {
-    color: blanchedalmond;
+    color: black;
 }
 h4 {
     font-size: 25px;
@@ -56,7 +58,7 @@ p {
     font-size: 23px;
 }
 h5 {
-    color: #e71;
+    color: black;
     font-size: 30px;
 }
 .aboutme {
@@ -68,7 +70,7 @@ h1 {
     font-size: 40px;
 }
 span {
-    color: #e71;
+    color: black;
 }
 /* footer */
 footer {
