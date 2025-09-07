@@ -35,7 +35,7 @@ body{
         color: #ededed;
         text-decoration: none;
         font-weight: 500;
-        margin-left: 30px;
+        margin-left: 50px;
         transition: 3s;
         opacity: 0;
         animation: slideTop .5s ease forwards;
