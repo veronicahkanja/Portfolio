@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Open+Sans&display=swap');
+body {
+    background-color: #171717;
+}
+/* header */
+header {
+    background-color: rgb(59, 8, 8);
+    height: 2.1cm;
+}
+#logo h3{
+    font-family: 'Allison', cursive;
+}
+.logo {
+    float: left;
+}
+#logo img {
+    border-radius: 100%;
+}
+h3 {
+    font-size: 80px;
+    color: blanchedalmond;
+}
+nav {
+    float: right;
+    inline-size: 15cm;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0px 30px;
+}
+a {
+    color: #e71;
+    font-size: 27px;
+}
+a:hover {
+    color: #528aae;
+}    
+h1 {
+    color: #e71;
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    color: #e71;
+    font-size: 28px;
+}
+h4 {
+    font-size: 23px;
+}
+p {
+    font-size: 18px;
+}
+p,ul,h4 {
+    color: blanchedalmond;
+}
+h6 {
+    margin-top: -0.5cm;
+    margin-bottom: 0cm;
+    font-size: 20px;
+}
+.packages {
+    height: 6cm;
+}
+#education {
+    margin-left: 1cm;
+    float: left;
+    width: 60%;
+}
+.moringa,.jkuat,.packages {
+    margin-bottom: 1.3cm;
+}
+ol li {
+    font-size: 20px;
+    color: blanchedalmond;
+    padding: 10px 10px;
+}
+#skills h2 {
+    margin-bottom: 0cm;
+}
+#projects h2 {
+    margin-bottom: 0cm;
+}
+#hobbies {
+    margin-bottom: 5cm;
+}
+#hobbies h2 {
+    margin-bottom: -0.5cm;
+}
+/* footer */
+footer {
+    background-color: rgb(59, 8, 8);
+    height: 2.5cm;
+}
+#footer ul li {
+    display: inline-block;
+    padding: 0px 70px;
+    margin-top: 0.5cm;
+}
+.copyright {
+    margin-left: -1.8cm;
+    margin-right: 3cm;
+    font-size: 30px;
+    border-right: dotted #528aae;
+    padding-right: 1.5cm;
+}
