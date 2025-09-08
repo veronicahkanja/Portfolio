@@ -21,5 +21,8 @@ Email: **kanjaveronicah@gmail.com**
 ## 🤝 Contributions
 Contributions, issues, and feature requests are welcome!  
 
+## Authors and Acknowledgement
+Veronicah Kanja
+
 ## 📜 License
 This project is licensed under the [MIT License](./LICENSE).
