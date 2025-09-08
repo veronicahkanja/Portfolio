@@ -1,26 +1,25 @@
-# Portfolio Page
+# Portfolio Landing Page
 
-## Description
-This is my personal portfolio landing page.  
-It gives an overview of who I am, my skills, and showcases my resume.  
+## 📖 Description
+This is my personal portfolio website. It gives a description about myself, my skills, and my work.
 
----
+## ✨ Features
+- Built with HTML & CSS  
+- Clean code  
+- Easy to run  
+- Well commented  
+- Open source  
+- Proper indentation  
 
-## Features
-- Built with **HTML, CSS & JS**
-- Clean, simple, and responsive design
-- Easy to run locally
-- Well-commented code
-- Open source project
-- Proper indentation and structure
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
 
----
+## 📬 Support and Contact Details
+Email: **kanjaveronicah@gmail.com**  
 
-## Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+## 🤝 Contributions
+Contributions, issues, and feature requests are welcome!  
 
----
-
-
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).
