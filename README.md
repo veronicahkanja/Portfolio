@@ -4,7 +4,7 @@
 This is my personal portfolio website. It gives a description about myself, my skills, and my work.
 
 ## ✨ Features
-- Built with HTML & CSS  
+- Built with HTML  CSS  & JS
 - Clean code  
 - Easy to run  
 - Well commented  
@@ -14,6 +14,7 @@ This is my personal portfolio website. It gives a description about myself, my s
 ## 🛠️ Technologies Used
 - HTML  
 - CSS  
+- JAVASCRIPT
 
 ## 📬 Support and Contact Details
 Email: **kanjaveronicah@gmail.com**  
