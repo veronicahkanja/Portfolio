@@ -35,6 +35,28 @@ nav ul li {
     
     
 }
+/* Navbar styling */
+.navbar {
+  display: flex;
+  justify-content: center;   /* center horizontally */
+  align-items: center;       /* align vertically */
+  gap: 40px;                 /* spacing between links */
+  padding: 20px 0;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-size: 22px;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #528aae;
+  transform: scale(1.1); /* nice hover effect */
+}
+
 a {
     color: #e71;
     font-size: 27px;
