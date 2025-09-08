@@ -2,7 +2,7 @@
 body {
     background: linear-gradient(to right, #9c27b0,#8ecdff);
 }
-/*header */
+
 header {
    
     height: 2.1cm;
@@ -35,12 +35,12 @@ nav ul li {
     
     
 }
-/* Navbar styling */
+
 .navbar {
   display: flex;
-  justify-content: center;   /* center horizontally */
-  align-items: center;       /* align vertically */
-  gap: 40px;                 /* spacing between links */
+  justify-content: center;   
+  align-items: center;       
+  gap: 40px;                 
   padding: 20px 0;
 }
 
@@ -54,7 +54,7 @@ nav ul li {
 
 .navbar a:hover {
   color: #528aae;
-  transform: scale(1.1); /* nice hover effect */
+  transform: scale(1.1); 
 }
 
 a {
@@ -94,7 +94,7 @@ h1 {
 span {
     color: black;
 }
-/* footer */
+
 footer {
     
     height: 2.5cm;
